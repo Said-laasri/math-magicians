@@ -1,0 +1,44 @@
+.calculator {
+  width: 40rem;
+  height: 30rem;
+  padding-top: 10px;
+}
+
+.answer {
+  height: 5rem;
+  display: flex;
+  background-color: rgb(145, 154, 177);
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.answer > span {
+  width: 100%;
+  font-size: 30px;
+  padding-right: 5px;
+  text-align: end;
+}
+
+.section1 {
+  width: 100%;
+  height: 5rem;
+}
+
+.number {
+  width: 25%;
+  height: 100%;
+  font-size: 25px;
+}
+
+.number0 {
+  width: 50%;
+  height: 100%;
+  font-size: 25px;
+}
+
+.side-symbols {
+  width: 25%;
+  height: 100%;
+  font-size: 25px;
+  background-color: rgb(238, 132, 61);
+}
