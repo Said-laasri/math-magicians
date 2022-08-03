@@ -7,16 +7,11 @@
 .answer {
   height: 5rem;
   display: flex;
+  font-size: 30px;
+  padding-right: 5px;
   background-color: rgb(145, 154, 177);
   justify-content: flex-end;
   align-items: center;
-}
-
-.answer > span {
-  width: 100%;
-  font-size: 30px;
-  padding-right: 5px;
-  text-align: end;
 }
 
 .section1 {
