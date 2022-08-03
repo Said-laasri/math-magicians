@@ -1,6 +1,7 @@
 /* eslint-disable react/prefer-stateless-function */
 import React from 'react';
 import './calculator.css';
+import calculate from '../logic/calculate';
 
 class Calculator extends React.Component {
   render() {
