@@ -1,35 +1,21 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import './Nav.css';
 
 const LINKS = [
   { to: '/home', text: 'Home' },
   { to: '/calculator', text: 'Calculator' },
-  { to: '/about', text: 'About' },
+  { to: '/Quote', text: 'Quote' },
 ];
 
-// const Nav = () => (
-//   <div>
-//     <h2>Mathmatician</h2>
-//     <ul>
-//       LINKS.map((file) => (
-//       <li key={file.to}>
-//         <Link to={file.to}>{file.test}</Link>
-//       </li>
-//       ));
-//     </ul>
-//   </div>
-// );
 const Navs = () => (
-  <div>
+  <div className="Nav-bar">
     <h1> MATH MAGICIANS</h1>
     <ul>
       {LINKS.map((item) => (
         <li key={item.to}>
           {' '}
-          <Link to={item.to}>
-            {' '}
-            {item.text}
-          </Link>
+          <Link to={item.to}>{item.text}</Link>
         </li>
       ))}
     </ul>

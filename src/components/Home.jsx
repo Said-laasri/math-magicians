@@ -1,7 +1,9 @@
+import './Home.css';
+
 function Home() {
   return (
     <div className="home-section">
-      <h1>Welcome to our page!</h1>
+      <h2>Welcome to our page!</h2>
       <p>
         This calculator application will need two components. One is our Result
         component where we display the output, and the other is KeypadComponent

@@ -1,0 +1,21 @@
+.home-section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  height: auto;
+  margin-top: 20%;
+  gap: 3rem;
+  text-align: center;
+}
+
+.home-section > h2 {
+  font-size: 25px;
+  text-shadow: 1px 1px #b85252;
+}
+
+.home-section > p {
+  line-height: 1.4;
+  font-size: 18px;
+  font-weight: 700;
+}
