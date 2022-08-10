@@ -64,6 +64,12 @@ $ npm start
 - Twitter: [@saidlaasr](https://twitter.com/saidlaasr)
 - LinkedIn: [SAID LAASRI](https://www.linkedin.com/in/said-laasri-8a4367172/)
 
+👤 **Abdelmejid Oumer Ali**
+
+- GitHub: [@amejid](https://github.com/amejid)
+- Twitter: [@amejidoumer](https://twitter.com/amejidoumer)
+- LinkedIn: [amejid](https://linkedin.com/in/amejid)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
