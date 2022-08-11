@@ -56,6 +56,9 @@ $ npm start
 
 ---
 
+##LIVE DEMO
+[Math-Magician](https://62f4ddf1408c40091ecbd8ef--gleeful-selkie-06c959.netlify.app/home)
+
 ## Authors
 
 👤 **Said laasri**
