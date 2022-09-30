@@ -1,0 +1,197 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="home-section"
+>
+  <h2>
+    Welcome to our page!
+  </h2>
+  <p>
+    This calculator application will need two components. One is our Result component where we display the output, and the other is KeypadComponent where we need to display our keypad.In the src folder, we ll create a directory called components. This is where we will code our components. Go into that folder and create ResultComponent.js.
+  </p>
+</div>
+`;
+
+exports[`renders correctly 2`] = `
+<div
+  className="quote-section"
+>
+  <h2>
+    Mathematics is not about numbers, equations, computations., or algorithms:it is about understanding.-William Paul Thurston
+  </h2>
+</div>
+`;
+
+exports[`renders correctly 3`] = `
+Array [
+  <div
+    className="math"
+  >
+    Lets do some math!!!
+  </div>,
+  <div
+    className="calculator"
+  >
+    <div
+      className="answer"
+      onChange={[Function]}
+    >
+      0
+    </div>
+    <div
+      className="section1"
+    >
+      <button
+        className="number"
+        onClick={[Function]}
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        className="number"
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        className="number"
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        className="side-symbols"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+    </div>
+    <div
+      className="section1"
+    >
+      <button
+        className="number"
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        className="number"
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        className="number"
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="side-symbols"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+    </div>
+    <div
+      className="section1"
+    >
+      <button
+        className="number"
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        className="number"
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        className="number"
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="side-symbols"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+    </div>
+    <div
+      className="section1"
+    >
+      <button
+        className="number"
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        className="number"
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        className="number"
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="side-symbols"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+    </div>
+    <div
+      className="section1"
+    >
+      <button
+        className="number0"
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        className="number"
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="side-symbols"
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>,
+]
+`;

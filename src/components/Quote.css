@@ -1,0 +1,9 @@
+.quote-section {
+  display: flex;
+  width: 60%;
+  margin-top: 20%;
+  font-size: 15px;
+  margin-left: 20%;
+  font-weight: 600;
+  text-align: center;
+}

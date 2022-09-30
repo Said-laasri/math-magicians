@@ -1,0 +1,54 @@
+.calculator {
+  display: block;
+  margin-top: 7.5%;
+  margin-left: 20%;
+  width: 40rem;
+  height: 30rem;
+  padding-top: 10px;
+  box-shadow: 15px 12px #beb7b7;
+}
+
+.answer {
+  height: 5rem;
+  display: flex;
+  font-size: 30px;
+  padding-right: 5px;
+  background-color: rgb(145, 154, 177);
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.section1 {
+  width: 100%;
+  height: 5rem;
+}
+
+.number {
+  width: 25%;
+  height: 100%;
+  font-size: 25px;
+}
+
+.number0 {
+  width: 50%;
+  height: 100%;
+  font-size: 25px;
+}
+
+.side-symbols {
+  width: 25%;
+  height: 100%;
+  font-size: 25px;
+  background-color: rgb(238, 132, 61);
+}
+
+.math {
+  margin-top: 15%;
+  font-size: 20px;
+  padding: 10px;
+  font-weight: 700;
+}
+
+.math:hover {
+  text-shadow: 15px 15px #beb7b7;
+}
