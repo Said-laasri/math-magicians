@@ -1,66 +1,94 @@
-# Project Name
+# 📗 Table of Contents
 
-math magisians
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Exotic Rentals ](#-exotic-rentals--)
+  - [Backend](#backend)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-# Description the project.
+# 📖 Math Magician <a name="about-project"></a>
 
-Calculator is apps that does calculon web browser
+**math magician** Math-Magician" is a web app for all lovers of mathematics. It is a Single Page Application (SPA) that allows users to make simple calculations and read a random math-related quote.
 
-## Built With
+## 🛠 Built With <a name="built-with"></a>
 
-- html/css/js/React.
-- following linters standards.
-- following github flows standards.
+### Tech Stack <a name="tech-stack"></a>
 
-## Getting Started
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="#">CSS</a></li>
+    <li><a href="https://jest.com/">Jest Test</a></li>
+  </ul>
+</details>
 
-**calculator app created with React**
-
----
-
-To get a local copy up and running follow these simple example steps.
-follow>>>>>>>>>
-
-### Setup
-
-to use the project Leaderboard please follow :
-
-> Open GitHub and go to my GitHub repository name: math magisians clone.
-
-> Click “Code” and copy the given URL.
-
-> click code and copy the URL.
-
-> click code and copy the URL.
-
-> Open “Git Bash” and change the current working directory to the location where you want the cloned directory.
-
-> Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
-
-> Syntax:
-
-$ git clone {repository URL}
-
-### Usage
-
-> open your directory Tv-show/
-
-\_use vs-code or any IDE to view line code .
-
-\_use you preferd browser to run the file .html to get project website.
-to run in terminal / git :
-
----
-
-$ npm start
-
----
-
-##LIVE DEMO
+## 🚀 Live Demo <a name="live-demo"></a>
 
 [Math-Magician](https://62f4ddf1408c40091ecbd8ef--gleeful-selkie-06c959.netlify.app/)
 
-## Authors
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  
+```
+
+### Install
+
+Install this project with:
+
+```sh
+  cd math-magician
+  yarn install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  npm start
+```
+
+### Deployment
+
+You can deploy this project using:
+
+```sh
+  git push main
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Author <a name="author"></a>
 
 👤 **Said laasri**
 
@@ -68,23 +96,32 @@ $ npm start
 - Twitter: [@saidlaasr](https://twitter.com/saidlaasr)
 - LinkedIn: [SAID LAASRI](https://www.linkedin.com/in/said-laasri-8a4367172/)
 
-👤 **Abdelmejid Oumer Ali**
 
-- GitHub: [@amejid](https://github.com/amejid)
-- Twitter: [@amejidoumer](https://twitter.com/amejidoumer)
-- LinkedIn: [amejid](https://linkedin.com/in/amejid)
-
-## 🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-thanks:
 
-## Show your support
+Feel free to check the [issues page](../../issues/).
 
-Give a ⭐️ if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-- Microverse
-- Inspiration
-- etc
+If you like this project consider giving it a star ⭐️.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse for giving me the opportunity to work on this project.
+
+- LazyCoders
+- Coding Partners
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
