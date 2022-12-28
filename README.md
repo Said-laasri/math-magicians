@@ -2,7 +2,6 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Exotic Rentals ](#-exotic-rentals--)
-  - [Backend](#backend)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -32,9 +31,9 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/">JavaScript</a></li>
     <li><a href="#">CSS</a></li>
-    <li><a href="https://jest.com/">Jest Test</a></li>
+    <li><a href="https://jest.com/">HTML</a></li>
   </ul>
 </details>
 
